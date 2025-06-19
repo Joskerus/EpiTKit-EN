@@ -143,7 +143,7 @@ library(cfr)
 
 <center>
 
-[![](fig/dudas.png){width="100"}](https://joskerus.github.io/EpiTKit-EN/Error_bank.html)
+[![](fig/dudas.png){width="100"}](https://epiverse-trace.github.io/EpiTKit-EN/Error_bank.html)
 
 </center>
 
@@ -296,7 +296,7 @@ It is important to note that, due to the skewness of the distribution, the mean 
 
 <center>
 
-[![](fig/dudas.png){width="100"}](https://joskerus.github.io/EpiTKit-EN/Error_bank.html)
+[![](fig/dudas.png){width="100"}](https://epiverse-trace.github.io/EpiTKit-EN/Error_bank.html)
 
 </center>
 
@@ -342,7 +342,7 @@ ggplot(data = table, aes(x = type_of_contagion, y = perc)) +
 
 <center>
 
-[![](fig/dudas.png){width="100"}](https://joskerus.github.io/EpiTKit-EN/Error_bank.html)
+[![](fig/dudas.png){width="100"}](https://epiverse-trace.github.io/EpiTKit-EN/Error_bank.html)
 
 </center>
 
@@ -400,7 +400,7 @@ An introduction to statistical inference and confidence intervals can be found i
 
 <center>
 
-[![](fig/dudas.png){width="100"}](https://joskerus.github.io/EpiTKit-EN/Error_bank.html)
+[![](fig/dudas.png){width="100"}](https://epiverse-trace.github.io/EpiTKit-EN/Error_bank.html)
 
 </center>
 
@@ -760,7 +760,7 @@ runif(n, a, b)
 ```
 
 ``` output
-[1] 3.486418 4.930341 2.233392 2.311258 2.419990
+[1] 4.351515 3.292114 4.391229 2.313817 3.927747
 ```
 
 :::
@@ -1087,7 +1087,7 @@ plot(influenza_incubation)
 
 <center>
 
-[![](fig/dudas.png){width="100"}](https://joskerus.github.io/EpiTKit-EN/Error_bank.html)
+[![](fig/dudas.png){width="100"}](https://epiverse-trace.github.io/EpiTKit-EN/Error_bank.html)
 
 </center>
 
@@ -1264,7 +1264,7 @@ This is because the CFR package performs the construction of the CI by the metho
 
 <center>
 
-[![](fig/dudas.png){width="100"}](https://joskerus.github.io/EpiTKit-EN/Error_bank.html)
+[![](fig/dudas.png){width="100"}](https://epiverse-trace.github.io/EpiTKit-EN/Error_bank.html)
 
 </center>
 
